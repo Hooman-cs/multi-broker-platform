@@ -1,0 +1,4 @@
+content for backend/.env
+DATABASE_URL="postgresql://postgres.shrpmmqulavflejeiifi:GgBbJXoHMID7xUYC@aws-1-ap-south-1.pooler.supabase.com:6543/postgres"
+SUPABASE_URL="https://shrpmmqulavflejeiifi.supabase.co"
+SUPABASE_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNocnBtbXF1bGF2ZmxlamVpaWZpIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc2OTUwNzgwMywiZXhwIjoyMDg1MDgzODAzfQ.HEilsgW0hLb6Fh_RKqxZ9Q4SbnjFZ4HdD6bR08Omdtw"
